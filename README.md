@@ -34,8 +34,8 @@ Credits
 
 We would like to thank the following individuals and organizations for their contributions to Awesome Blackcat:
 
-* [GitHub](https://github.com) for hosting our repository
-* [OpenAI](https://openai.com) for creating ChatGPT, the language model that helped us write this README.md
-* [Unsplash](https://unsplash.com) for providing the cool graphics on our landing page
+- 1
+- 2
+- 3
 
 We hope you find Awesome Blackcat useful!
