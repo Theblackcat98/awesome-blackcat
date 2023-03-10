@@ -1,19 +1,41 @@
-# Quartz
+awesome-blackcat
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+[](https://github.com/Theblackcat98/awesome-blackcat/stargazers) 
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+[](https://github.com/Theblackcat98/awesome-blackcat/issues) 
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+[](https://github.com/Theblackcat98/awesome-blackcat/blob/main/LICENSE)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A collection of curated lists of cool software, utilities, tech tips and tricks, and more. This repository hosts all of the files for our static website.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+About Us
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+At BlackCatDesigns
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+I'll aim to provide helpful tips and tricks to help you get the most out of your technology.
+
+Lists
+
+We have several curated lists to help you find the best software and tools for your needs. Here are just a few examples:
+
+* Open Source Software
+* Free Software
+* Paid Software
+* Utilities
+* Blogs
+
+Contributions
+
+We welcome contributions to our lists. If you have a suggestion for a tool or resource that you think should be included, please submit a pull request.
+
+
+
+Credits
+
+We would like to thank the following individuals and organizations for their contributions to Awesome Blackcat:
+
+* [GitHub](https://github.com) for hosting our repository
+* [OpenAI](https://openai.com) for creating ChatGPT, the language model that helped us write this README.md
+* [Unsplash](https://unsplash.com) for providing the cool graphics on our landing page
+
+We hope you find Awesome Blackcat useful!
