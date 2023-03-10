@@ -1,12 +1,15 @@
 awesome-blackcat
 
-[stars](https://github.com/Theblackcat98/awesome-blackcat/stargazers) 
+[](https://github.com/Theblackcat98/awesome-blackcat/stargazers) 
 
-[issue](https://github.com/Theblackcat98/awesome-blackcat/issues) 
+[](https://github.com/Theblackcat98/awesome-blackcat/issues) 
 
-[license](https://github.com/Theblackcat98/awesome-blackcat/blob/main/LICENSE)
+[](https://github.com/Theblackcat98/awesome-blackcat/blob/main/LICENSE)
 
-A collection of curated lists of cool software, utilities, tech tips and tricks, and more. This repository hosts all of the files for our static website.
+A collection of curated lists of cool software, utilities, tech tips and tricks, and more. This repository hosts all of the files for our static website. 
+
+theblackcat98.github.io
+theblackcat98.github.io/awesome-blackcat/
 
 About Us
 
