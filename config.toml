@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://theblackcat98.github.io/awesome-blackcat"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-TW28247GGY"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
